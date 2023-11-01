@@ -2427,3 +2427,7 @@
 {"IP": "158.178.145.106", "Method": "GET", "Path": "/", "Data": "", "Hash": "99914b932bd37a50b983c5e7c90ae93b", "unix_timestamp": 1698865722, "readable_timestamp": "Wed Nov  1 19:08:42 2023"}
 {"IP": "158.178.145.106", "Method": "GET", "Path": "/Telerik.Web.UI.WebResource.axd", "Data": "", "Hash": "99914b932bd37a50b983c5e7c90ae93b", "unix_timestamp": 1698866371, "readable_timestamp": "Wed Nov  1 19:19:31 2023"}
 {"IP": "158.178.145.106", "Method": "GET", "Path": "/", "Data": "", "Hash": "99914b932bd37a50b983c5e7c90ae93b", "unix_timestamp": 1698866392, "readable_timestamp": "Wed Nov  1 19:19:52 2023"}
+{"IP": "158.178.145.106", "Method": "GET", "Path": "/favicon.ico", "Data": "", "Hash": "99914b932bd37a50b983c5e7c90ae93b", "unix_timestamp": 1698866414, "readable_timestamp": "Wed Nov  1 19:20:14 2023"}
+{"IP": "158.178.145.106", "Method": "GET", "Path": "/webfig/", "Data": "", "Hash": "99914b932bd37a50b983c5e7c90ae93b", "unix_timestamp": 1698866436, "readable_timestamp": "Wed Nov  1 19:20:36 2023"}
+{"IP": "158.178.145.106", "Method": "GET", "Path": "/cgi-bin/config.exp", "Data": "", "Hash": "99914b932bd37a50b983c5e7c90ae93b", "unix_timestamp": 1698866454, "readable_timestamp": "Wed Nov  1 19:20:54 2023"}
+{"IP": "158.178.145.106", "Method": "GET", "Path": "/", "Data": "", "Hash": "99914b932bd37a50b983c5e7c90ae93b", "unix_timestamp": 1698866460, "readable_timestamp": "Wed Nov  1 19:21:00 2023"}
